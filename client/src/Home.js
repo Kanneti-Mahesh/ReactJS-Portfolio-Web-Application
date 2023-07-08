@@ -769,11 +769,11 @@ MERN stack (MySQL, Express.js, React.js, Node.js)</p>
         <div className="col-md-6 col-lg-4 wow fadeInUp">
           <div className="card">
             <div className="img-place">
-               <a href='https://mbtechno.onrender.com' target='_blank'> <img src="../assets/img/work/portfolio.png" alt="" style={{height:'275px',width:'100%'}}/> </a>
+               <a href='https://mbinfotech.netlify.app' target='_blank'> <img src="../assets/img/work/portfolio.png" alt="" style={{height:'275px',width:'100%'}}/> </a>
             </div>
             <div className="caption">
-              <a href="https://mbtechno.onrender.com" target='_blank' className="post-category">ReactJS Portfolio Application</a>
-              <a href="https://mbtechno.onrender.com" target='_blank' className="post-title">ReactJS, JavaScript.</a>
+              <a href="https://mbinfotech.netlify.app" target='_blank' className="post-category">ReactJS Portfolio Application</a>
+              <a href="https://mbinfotech.netlify.app" target='_blank' className="post-title">ReactJS, JavaScript.</a>
               <span className="post-date"><span className="sr-only">Published on</span> February 22, 2023</span>
             </div>
           </div>
